@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kirupa_ipaddress/static/css/main.d808d33d.css",
+    "main.js": "/kirupa_ipaddress/static/js/main.ae6984ac.js",
+    "index.html": "/kirupa_ipaddress/index.html",
+    "main.d808d33d.css.map": "/kirupa_ipaddress/static/css/main.d808d33d.css.map",
+    "main.ae6984ac.js.map": "/kirupa_ipaddress/static/js/main.ae6984ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d808d33d.css",
+    "static/js/main.ae6984ac.js"
+  ]
+}
